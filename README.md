@@ -1,1 +1,1 @@
-# eks-deployment-app
+# deploy-to-eks-using-github-actions
